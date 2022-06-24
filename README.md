@@ -16,9 +16,11 @@ I welcome any contributors to this mini-project. Feel free to fork the project a
 ## Table of Contents
 ### Libraries
 - [iostream](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#iostream)
+- [cmath]()
 ### Cheatsheet
 - [General Codes](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#input-and-output)
 - [Mathematical Operators](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#mathematical-operators)
+- [Advance Mathematical Operators]()
 - [Very Useful Codes](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#very-useful-codes)
 - [Data Types](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#data-types)
 - [Data Structures](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#data-structures)
@@ -29,6 +31,7 @@ I welcome any contributors to this mini-project. Feel free to fork the project a
 
 ## Libraries 
 - **iostream -** library used for input and output (eg. cout and cin)
+- **cmath -** library used for advance mathematical operators (eg. power, square root, etc.)
 
 ## Cheatsheet
 ### Input and Output
@@ -52,6 +55,40 @@ I welcome any contributors to this mini-project. Feel free to fork the project a
 - **'>=' (greater than or equal to) -** used for creating conditions
 - **'!=' (not equal to) -** used for creating conditions
 - **operator= -** used as a shortcut to change the value of variables by using variables to interact with another variable. Examples of operator= are +=, -=, *=, and /=.
+
+### Advance Mathematical Operators
+- **acos(number); -** gives inverse cosine of a number
+- **acosh(number); -** gives hperbolic cosine of a number
+- **asin(number); -** gives inverse sine of a number
+- **asinh(number); -** gives arc hyperbolic sine of a number
+- **atan(number); -** gives inverse tangent of a number
+- **atan2(number); -** gives inverst tangent of a coordinate
+- **atanh(number); -** gives arch hyperbolic tanget of a number
+- **cbrt(number); -** calculates cube root of a number
+- **ceil(number); -** gives ceiling value of a number
+- **cmath abs(arguement); -** gives the absolute value of an arguement
+- **copysign(num); -** gives a num with value of first and sign of second
+- **cos(arguement); -** gives the consine of the arguement
+- **cosh(angle); -**gives the hyperbolic cosine of an angle
+- **exp(); -**
+- **exp2(); -**
+- **-**
+- **-**
+- **-**
+- **-**
+- **-**
+- **-**
+- **-**
+- **-**
+- **-**
+- **-**
+- **-**
+- **-**
+- **-**
+- **-**
+
+<!-- Code list: https://www.programiz.com/cpp-programming/library-function/cmath -->
+
 
 ### Very Useful Codes
 - **\n -** Replacement for endl
@@ -95,67 +132,15 @@ creates a comment box
 - **class_name (new parameters that will be connected to the class parameters) { Insert all public variables and make them equal the new parameters: create a return function to call private variables } -** constructer fuction, used to easily create objects with classes.
 
 ### Classes and Objects
+- **class class_name { private: input private variables; public: input public variables }; -** creates a class containing private and/or public variables.
+- **class_name object_name; object_name.variable = value; -** Creates an object in a inefficient way, here you give values to every variable for the object right below class_name object_name;
+- **class new_class_name : public/private existing_class_name { new variables for the new class }; -** Inheritance, allows a new class to inherit either the public or private variables of an existing class and allows you to add new variables
 
-Class -
-class (class name)
-{
-Private:
-(Input private class attributes that are inaccessible to anything but the class); (Private variables cannot be accessed by any part of the code except the class)
-Public:
-(input public class attributes that are accessible to any part of the code); (Public variables can be accessed by any part of the code)
-};
-Description: C++ doesn’t have a lot of variable data types, it cant fit it all. The purpose of the class is to act as a data type for something that can’t be described by a singular data type. Another purpose of a class is to act as a schematic or plan to create an object in the program.
-Example:
-class Phone
-{
-Private:
-string androidVersion;
-
-Public:
-string speed;
-string brand;
-string RAM;
-};
-
-Class calling and giving values in int main
-Using the example, you can call a class or its components by doing this
-Phone Phone1;
-Phone1.speed = “input”;
-Phone1.brand = “input”;
-Phone1.RAM = “input”;
-cout << Phone1.speed << endl;
-You cant access/modify androidVersion in int main
-Output
-Input
-More elaboration: You give out values to the class attributes in int main, but you cant do that with private variables and the writing style for giving out values to the attributes is tedious. That can be fixed with the addition of functions inside of the classes. The functions will allow private variables to receive values since it is inside the class. Refer to functions, or constructors to be more specific for more details
-
-
-
-
-
-## Other Codes
-
-(string variable name).length(); (This will find the total number of characters within the string)
-(variable name)[index number]; (This will display the character in the indicated index position. Computers start counting at 0 from left to right, typically used for strings, arrays, and prob some others)
-
-(string variable name).find(specific characters you want to find, index position to start the search); (This will allow you to look for specific characters starting at a specific index position.)
-
-(string variable name).subtr(insert starting index position, insert ending index position); (This will get a segment of a string and display it, its called substring)
-
-Inheritance - class (new class name) : (public/private) (existing class name){[insert new attributes);}; it allows the new class to receive the same attributes of an existing class and allows you to input new attributes
-
-Advance Math Codes
-Description: Uses source code file cmath, #include (cmath) uses namespace std;
-Code list: https://www.programiz.com/cpp-programming/library-function/cmath
-Examples:
-pow (base number, exponent);
-sqrt(number);
-round(number);
-ceil(number);
-floor(number);
-
-
-
+### Other Codes
+- **string_variable_name.length(); -** finds the total number of characters in the string
+- **variable_name[index number]; -** searches for the character located on the indicated index position
+- **string_variable_name.find(specific characters you want to find, index position to start the search); -** searches for specific characters you want to find and where the computer should start searching.
+- **string_variable_name.subtr(insert starting index position, insert ending index position); -** abstracts a substring within the main string depending on index position parameters
 
 ## Additional Information For C++
 - In conditional statements like if, else, and else if: it is not necessary to always use curly brackets. If the code connected to the conditional statement is only a one liner, then you don't need curly brackets however if it is more than one line then you need curly brackets.
