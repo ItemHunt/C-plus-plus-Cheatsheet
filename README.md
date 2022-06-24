@@ -18,15 +18,19 @@ I welcome any contributors to this mini-project. Feel free to fork the project a
 - [iostream](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#iostream)
 - [cmath]()
 ### Cheatsheet
-- [General Codes](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#input-and-output)
-- [Mathematical Operators](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#mathematical-operators)
-- [Advance Mathematical Operators]()
-- [Very Useful Codes](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#very-useful-codes)
-- [Data Types](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#data-types)
-- [Data Structures](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#data-structures)
-- [Loops and Related Codes](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#loops-and-related-codes)
-- [Conditions](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#conditions)
-- [Functions](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#functions)
+- [Input and Output](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#input-and-output)
+- [Mathematical Operators](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#mathematical-operators)
+- [Advance Mathematical Operators](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#advance-mathematical-operators)
+- [Very Useful Codes](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#very-useful-codes)
+- [Data Types](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#data-types)
+- [Data Structures](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#data-structures)
+- [Loops and Related Codes](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#loops-and-related-codes)
+- [Conditions](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#conditions)
+- [Functions](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#functions)
+- [Classes and Objects](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#classes-and-objects)
+### Additional Information For C++ & Learning Resources List
+- [Additional Information For C++](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#additional-information-for-c)
+- [Learning Resources List](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#learning-resources-list)
 
 
 ## Libraries 
@@ -154,3 +158,4 @@ creates a comment box
 - Game development with C++ (video) https://www.youtube.com/watch?v=iEn0ozP-jxc
 - Unreal Engine 4 with C++ (video) https://www.youtube.com/watch?v=qeKDRqWtGV0
 - Other C++ project ideas (website) https://hackr.io/blog/cpp-projects
+- C++ documentation (website) https://devdocs.io/cpp-algorithm/
