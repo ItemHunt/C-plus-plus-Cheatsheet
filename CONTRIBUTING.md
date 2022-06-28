@@ -1,10 +1,10 @@
 # Guide to Contributing
 
 ## Notice
-This guide is specifically made for those who are new to GitHub. If you are not new to GitHub, please refer to [How to Contribute](https://github.com/ItemHunt/bash-cheatsheet#how-to-contribute).
+This guide is specifically made for those who are new to GitHub. If you are not new to GitHub, please refer to [How to Contribute](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#how-to-contribute).
 
 ## How to Contribute Step-By-Step
-1. Enter the ItemHunt/Bash-Cheatsheet repository
+1. Enter the ItemHunt/C-plus-plus-Cheatsheet repository
 2. At the top right portion of your screen, you should see a button called "Fork" it is next to the star button.
 3. Click on the fork button and create a forked repository. What this means is that you are getting a copy of the original repository for you to mess around with. None of your changes in your copy of the original repository will be seen in the main repository unless you make a pull request and I approve it for merging.
 4. Enter the forked repository, forked repositories tend to have nearly the same name as the original except it has your username in the first portion, you van view this under "Your repositories" or "Repositories" in your profile and apply the changes you wanted to apply there
