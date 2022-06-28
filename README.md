@@ -34,8 +34,10 @@ I welcome any contributors to this mini-project. Feel free to fork the project a
 
 
 ## Libraries 
-- **iostream -** library used for input and output (eg. cout and cin)
-- **cmath -** library used for advance mathematical operators (eg. power, square root, etc.)
+### iostream
+library used for input and output commands such as cout, cin, and getline
+### cmath
+library used for advance mathematical operators such as square root, power, sin, tan, cos, etc.
 
 ## Cheatsheet
 ### Input and Output
@@ -61,38 +63,60 @@ I welcome any contributors to this mini-project. Feel free to fork the project a
 - **operator= -** used as a shortcut to change the value of variables by using variables to interact with another variable. Examples of operator= are +=, -=, *=, and /=.
 
 ### Advance Mathematical Operators
-- **acos(number); -** gives inverse cosine of a number
-- **acosh(number); -** gives hperbolic cosine of a number
-- **asin(number); -** gives inverse sine of a number
-- **asinh(number); -** gives arc hyperbolic sine of a number
-- **atan(number); -** gives inverse tangent of a number
-- **atan2(number); -** gives inverst tangent of a coordinate
-- **atanh(number); -** gives arch hyperbolic tanget of a number
-- **cbrt(number); -** calculates cube root of a number
-- **ceil(number); -** gives ceiling value of a number
-- **cmath abs(arguement); -** gives the absolute value of an arguement
-- **copysign(num); -** gives a num with value of first and sign of second
-- **cos(arguement); -** gives the consine of the arguement
-- **cosh(angle); -**gives the hyperbolic cosine of an angle
-- **exp(); -**
-- **exp2(); -**
-- **-**
-- **-**
-- **-**
-- **-**
-- **-**
-- **-**
-- **-**
-- **-**
-- **-**
-- **-**
-- **-**
-- **-**
-- **-**
-- **-**
-
-<!-- Code list: https://www.programiz.com/cpp-programming/library-function/cmath -->
-
+- **acos(); -** gives inverse cosine of a number
+- **acosh(); -** gives hperbolic cosine of a number
+- **asin(); -** gives inverse sine of a number
+- **asinh(); -** gives arc hyperbolic sine of a number
+- **atan(); -** gives inverse tangent of a number
+- **atan2(); -** gives inverst tangent of a coordinate
+- **atanh(); -** gives arch hyperbolic tanget of a number
+- **cbrt(); -** calculates cube root of a number
+- **ceil(); -** gives ceiling value of a number
+- **cmath abs(); -** gives the absolute value of an arguement
+- **copysign(); -** gives a num with value of first and sign of second
+- **cos(); -** gives the consine of the arguement
+- **cosh(); -** gives the hyperbolic cosine of an angle
+- **exp(); -** gives exponential e raised to a number
+- **exp2(); -** gives 2 raised to a number
+- **expm1() -** gives e raised to power minus 1
+- **fabs() -** gives the absolute value of the argument
+- **fdim() -** gives the positive different between arguments
+- **floor() -** gives the floor value of a decimal value
+- **fma() -** gives a fused multiply-accumulate
+- **fmax() -** gives the largest among two arguments passed
+- **fmin() -** gives the smallest among two specified arguments
+- **fmod() -** computes floating point remainder of division
+- **frexp() -** breaks a float to its binary significand
+- **hypot() -** gives the square root of the sum of square of arguments
+- **ilogb() -** gives the integral part of logarithm of |x|
+- **ldexp() -** gives the product of x and 2 raised to the power of e
+- **llrint() -** rounds an argument using current rounding mode
+- **llround() -** rounds argument to the nearest long int value
+- **log() -** gives the natural logarithm of a number
+- **log10() -** gives the base 10 logarithm of a number
+- **log1p() -** gives the natural logarithm of x+1
+- **log2() -** gives the base2 logarithm of the specified number
+- **logb() -** gives the logarithm of |x|
+- **lrint() -** rounds an argument using current rounding mode
+- **lround() -** gives the long int value neares to the specificed argument
+- **modf() -** breaks a number into integral and fractional part
+- **nan() -** gives the quiet NaN value
+- **nearbyint() -** rounds the specified argument to using current rounding mode
+- **nextafter() -** gives the next value after x in the y direction
+- **nexttoward() -** gives the next value after x in the y direction
+- **pow() -** calculates for the power of a number
+- **remainder() -** gives the remainder of x/y
+- **remquo() -** calculates remainder and stores quotient of x/y
+- **rint() -**  rounds an argument using current rounding mode
+- **round() -** gives the integral value nearest to the specified argument
+- **scalbln() -** scales x value by FLT_RADIX to the power of n
+- **scalbn() -** scales x value by FLT_RADIX to the power of n
+- **sin() -** gives the sine of the argument
+- **sinh() -** gives the hyperbolic sine of an angle
+- **sqrt() -** calculates the square root of a number
+- **tan() -** gives the tangent of the argument
+- **tanh() -** gives the hyperbolic tangent of an angle
+- **trunc() -** truncates the decimal segment of the specified number
 
 ### Very Useful Codes
 - **\n -** Replacement for endl
