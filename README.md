@@ -1,7 +1,7 @@
 # C++ Cheatsheet
 
 ## Introduction
-The C++ Cheatsheet repository is a place where you can view a cheatsheet for C++, a programming language that is regularly used for creating desktop applications, operating systems, and such. You can also find useful pieces of information here (especially for beginners) and learning resources which are related to C++ in one way or another. This repository is a mini-project for a much bigger project called the [*Learning-Hub Project*](https://github.com/ItemHunt/Learning-Hub). 
+The C++ Cheatsheet repository is a place where you can view a cheatsheet for C++, a programming language that is regularly used for creating desktop applications, operating systems, and such. It is a widely used programming language that is known for its high speed and complexity when it comes to the advance levels of the programming language. You can also find useful pieces of information here (especially for beginners) and learning resources which are related to C++ in one way or another. This repository is a mini-project for a much bigger project called the [*Learning-Hub Project*](https://github.com/ItemHunt/Learning-Hub). 
 
 ## How to Contribute
 I welcome any contributors to this mini-project. Feel free to fork the project and add/edit stuff here and send out a pull request for review. If all is good, I should approve the pull request. In case you are new to GitHub, refer to [CONTRIBUTING](CONTRIBUTING.md) for a more detailed guide.
@@ -15,8 +15,8 @@ I welcome any contributors to this mini-project. Feel free to fork the project a
 
 ## Table of Contents
 ### Libraries
-- [iostream](https://github.com/ItemHunt/Learning-Hub/blob/master/languages/C%2B%2B/Cheatsheet.md#iostream)
-- [cmath]()
+- [iostream](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#iostream)
+- [cmath](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#cmath)
 ### Cheatsheet
 - [Input and Output](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#input-and-output)
 - [Mathematical Operators](https://github.com/ItemHunt/C-plus-plus-Cheatsheet#mathematical-operators)
